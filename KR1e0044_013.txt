@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳要義
-#+DATE: 2015-09-23 09:39:40
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:14:07.960914
+#+PROPERTY: ID KR1e0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三上
 <pb:KR1e0044_WYG_013-1a>¶
 欽定四庫全書¶
 　春秋左傳要義卷十三上¶
@@ -218,6 +220,7 @@
 　¶
 　¶
 　春秋左傳要義巻十三上¶
+#+PROPERTY: JUAN 卷十三下
 <pb:KR1e0044_WYG_013-13a>¶
 欽定四庫全書¶
 　春秋左傳要義巻十三下¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　春秋左傳要義卷十三下¶
-

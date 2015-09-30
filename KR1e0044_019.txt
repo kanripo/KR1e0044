@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳要義
-#+DATE: 2015-09-23 09:39:40
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:14:08.056762
+#+PROPERTY: ID KR1e0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九（原闕）
 <pb:KR1e0044_WYG_019-1a>¶
 欽定四庫全書¶
 　春秋左傳要義卷十九¶
@@ -20,4 +22,3 @@
 　¶
 　¶
 　春秋左傳要義卷十九¶
-

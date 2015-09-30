@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳要義
-#+DATE: 2015-09-23 09:39:40
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:14:08.029840
+#+PROPERTY: ID KR1e0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1e0044_WYG_017-1a>¶
 欽定四庫全書¶
 　春秋左傳要義卷十七¶
@@ -272,4 +274,3 @@
 之名三行無佐疑大夫帥¶
 　¶
 　春秋左傳要義卷十七¶
-

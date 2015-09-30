@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳要義
-#+DATE: 2015-09-23 09:39:40
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:14:08.116101
+#+PROPERTY: ID KR1e0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1e0044_WYG_023-1a>¶
 欽定四庫全書¶
 　春秋左傳要義卷二十三¶
@@ -272,4 +274,3 @@
 　　(二十/九)楚縣大夫僣稱公¶
 諸侯縣公皆慶寡人注楚縣大夫皆僣稱公¶
 　春秋左傳要義卷二十三¶
-

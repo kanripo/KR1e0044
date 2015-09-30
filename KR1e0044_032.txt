@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋左傳要義
-#+DATE: 2015-09-23 09:39:40
-#+PROPERTY: JUAN 32
+#+DATE: 2015-08-24 22:14:08.292192
+#+PROPERTY: ID KR1e0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋
 <pb:KR1e0044_WYG_032-1a>¶
 寳慶間朱端常劾魏了翁欺世盜名之謗詔降三官靖¶
 州㞐住時湖湘江浙之士不逺千里負笈從學乃著九¶
@@ -13,4 +15,3 @@
 方畢卷因識數言於後時萬厯戊申中秋後三日龍池¶
 <pb:KR1e0044_WYG_032-1b>¶
 山樵彭年¶
-
